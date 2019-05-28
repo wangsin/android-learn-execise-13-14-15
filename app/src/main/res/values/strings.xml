@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="crime_require_police">Require Police</string>
+    <string name="true_toast">TRUE</string>
+    <string name="false_toast">FALSE</string>
+    <string name="jump_to_first">Jump To First</string>
+    <string name="jump_to_last">Jump To Last</string>
+    <string name="date_picker_title">Date of crime:</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="delete_crime">Delete Crime</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="empty_list_hit">There is none crime.</string>
+    <string name="add_crime">Add Crime</string>
+    <string name="crime_suspect_text">CHOOSE SUSPECT</string>
+    <string name="crime_report_text">SEND CRIME REPORT</string>
+    <string name="crime_report">%1$s! The crime was discovered on %2$s, %3$s, and %4$s.</string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">there is no suspect</string>
+    <string name="crime_report_suspect">the suspect is %s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Send crime report via</string>
+    <string name="call_suspect_text">Call Now</string>
+    <!--<string name="subtitle_format">%1$d crimes</string>-->
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d crime</item>
+        <item quantity="other">%1$d crimes</item>
+    </plurals>
+</resources>
